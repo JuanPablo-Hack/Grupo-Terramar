@@ -1,0 +1,31 @@
+{
+    "grupoterramarla.com": {
+        "siteId": "wThJfEViFgJxWeuFcnGoqLQfwxQRqBmv",
+        "siteSecret": "UyIi1V2tx2azQYWc4ZkWEmwvIXMI6eDMEVUOVqugtLYp6YTN0Cdk2oUfVxOq2D7X",
+        "blogId": 1,
+        "compression": false,
+        "webhookToken": "e5f0c7cf55816df6fae13bda95f438a4",
+        "home_url": "https:\/\/grupoterramarla.com",
+        "admin_url": "https:\/\/grupoterramarla.com\/wp-admin\/",
+        "hosting": "siteground",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isApoActive": false,
+        "isLateIntegrationInitRequired": false,
+        "isDlmActive": false,
+        "isWoocommerceCacheHandlerActive": false,
+        "isWoocommerceActive": false,
+        "isAeliaCurrencySwitcherActive": false,
+        "dlm_downloading_url": null,
+        "dlm_download_endpoint": null,
+        "pluginVersion": "1.5.15",
+        "options_cache": {
+            "cache_handler_cache_handler": false,
+            "woocommerce_default_customer_address": false,
+            "wc_aelia_currency_switcher": {
+                "ipgeolocation_enabled": null
+            }
+        }
+    },
+    "config_path": "4f4226c976f70a7b09c952875969851f"
+}

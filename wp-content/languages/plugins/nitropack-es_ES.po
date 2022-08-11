@@ -1,0 +1,36 @@
+# Translation of Plugins - NitroPack - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - NitroPack - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-08-27 06:33:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - NitroPack - Stable (latest release)\n"
+
+#. Plugin URI of the plugin
+msgid "https://nitropack.io/platform/wordpress"
+msgstr "https://nitropack.io/platform/wordpress"
+
+#: functions.php:921
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tienes suficientes permisos para acceder a esta página."
+
+#. Author URI of the plugin
+msgid "https://nitropack.io/"
+msgstr "https://nitropack.io/"
+
+#. Author of the plugin
+msgid "NitroPack LLC"
+msgstr "NitroPack LLC"
+
+#. Description of the plugin
+msgid "Everything you need for a fast website. Simple set up, easy to use, awesome support. Caching, Lazy Loading, Minification, Defer CSS/JS, CDN and more!"
+msgstr "Todo lo que necesitas para una web rápida. Sencillo de configurar, fácil de usar, soporte impresionante. ¡Caché, carga diferida, minimización, aplazar CSS/JS, CDN y más!"
+
+#. Plugin Name of the plugin
+msgid "NitroPack"
+msgstr "NitroPack"
