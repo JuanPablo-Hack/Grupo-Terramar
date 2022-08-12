@@ -22,16 +22,16 @@ define( 'WP_CACHE', true /* Modified by NitroPack */ ); // By SiteGround Optimiz
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'dbgpl2x1msrhhb' );
+define( 'DB_NAME', 'u288448544_web' );
 
 /** Database username */
-define( 'DB_USER', 'u3nlatcqgpgnp' );
+define( 'DB_USER', 'u288448544_web' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'ktsyx0zgaeju' );
+define( 'DB_PASSWORD', 'y|?j/UR@P|3F' );
 
 /** Database hostname */
-define( 'DB_HOST', '127.0.0.1' );
+define( 'DB_HOST', 'localhost' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
